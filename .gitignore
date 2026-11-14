@@ -64,3 +64,6 @@ next-env.d.ts
 !.env.example
 setup-tmp/
 
+
+# Local Vercel import file (contains environment values)
+/import.env
